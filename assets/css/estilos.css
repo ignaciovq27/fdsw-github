@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-  width: 50px;
+  width: 300px;
 }
 
 /* Hero Section */
@@ -54,6 +54,10 @@ body {
   .navbar-brand{
     width: 100px;
   }
+}
+
+.fa-style {
+  color: rgb(60, 120, 180);
 }
 
 
